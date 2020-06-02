@@ -1,8 +1,0 @@
-dev/spring/dao/UserDao.class
-dev/spring/config/AppConfig.class
-dev/spring/exception/DataProcessingException.class
-dev/spring/Main.class
-dev/spring/service/impl/UserServiceImpl.class
-dev/spring/dao/impl/UserDaoImpl.class
-dev/spring/service/UserService.class
-dev/spring/model/User.class

@@ -1,8 +1,0 @@
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/Main.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/service/impl/UserServiceImpl.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/service/UserService.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/config/AppConfig.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/exception/DataProcessingException.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/dao/UserDao.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/model/User.java
-/home/vladyslav/IdeaProjects/spr-usrs/src/main/java/dev/spring/dao/impl/UserDaoImpl.java
